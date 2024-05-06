@@ -1,7 +1,10 @@
 # About Me:
-Hi, my name is Minh Tâm <br>
-I'm learning to make full-stack website, currently juggling some personal projects and polishing up my resume for the job hunt.<br>
-
+Hi, my name is Minh Tâm 
+    <br>
+I'm learning to make full-stack websites, currently juggling some personal projects and polishing up my resume for the job hunt.
+    <br>
+    <br>
+Throughout my coding journey, content creators like [Dennis Ivy](https://www.youtube.com/@DennisIvy), [Code with Antonio](https://www.youtube.com/@codewithantonio), and [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode) have been incredibly helpful. I can't imagine the amount of knowledge and effort these people put into their content to teach us - self-taught developers everything, expecting nothing in return. I was shocked and felt incredibly lucky at the same time.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/callme.Neva) 
@@ -38,5 +41,10 @@ I'm learning to make full-stack website, currently juggling some personal projec
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+# My projects
 
-
+| Name                          | description                                                                                                        | repo                                                       | live demo                                            |
+| :---------------------------- | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------------------------------------------------- |
+| CMS Ecommerce Admin Dashboard | Like the name, but you can have multiple store types add employees to your store and give them roles.              | [view](https://github.com/Nevalearntocode/ecommerce-admin) | [view](https://ecommerce-admin-swart-six.vercel.app) |
+| Discord clone                 | A Discord clone project to learn socket.io from Code with Antonio + my customizations like hashtag, friends...     | [view](https://github.com/Nevalearntocode/discord2)        | ...                                                  |
+| Airbnb clone                  | A Airbnb clone also from Code With Antonio but only the design part, I also add some customizations for SEO and UX | [view](https://github.com/Nevalearntocode/airbnb)          | ...                                                  |
