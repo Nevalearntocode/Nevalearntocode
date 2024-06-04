@@ -5,10 +5,13 @@ I'm learning to make full-stack websites, currently juggling some personal proje
     <br>
     <br>
 Throughout my coding journey, content creators like [Dennis Ivy](https://www.youtube.com/@DennisIvy), [Code with Antonio](https://www.youtube.com/@codewithantonio), and [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode) have been incredibly helpful. I can't imagine the amount of knowledge and effort these people put into their content to teach us - self-taught developers everything, expecting nothing in return. I was shocked and felt incredibly lucky at the same time.
+<br>
+<br>
+And you can see my portfolio website
+[here](portfolio-od4ymt0rf-nevalearntocodes-projects.vercel.app)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/callme.Neva) 
-
 # Skillsets:
 **Most of my projects are built using NEXT.js and its associated tools you can call these my "comfort zones"**
     <br>
