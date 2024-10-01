@@ -1,7 +1,7 @@
 # About Me:
 Hi, my name is Minh Tâm 
     <br>
-I'm full-stack developer specializing in Django and Nextjs, I've built various project with advanced features to hone and prove my skills, in the meantime refining my resume for the job hunt.
+I'm a full-stack developer specializing in Django and Nextjs, I've built various project with advanced features to hone and prove my skills, in the meantime refining my resume for the job hunt.
     <br>
     <br>
 Throughout my coding journey, I've learned that you can't possibly know everything and you will never be ready for everything. There are always new problems and you always need to learn new things to solve them. I've got my mindset now. "Strive for progress, not perfection".
