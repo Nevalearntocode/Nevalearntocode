@@ -27,7 +27,7 @@ And you can see my portfolio website
 
 # My projects
 ****
-| Name                          | description                                                                                           | repo                                                          | live demo                                            |
+| Name                          | description                                                                                           | repo                                                          | live                                           |
 | :---------------------------- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------- |
 | CMS Ecommerce Admin Dashboard | Like the name, but you can have multiple store types add employees to your store and give them roles. | [view](https://github.com/Nevalearntocode/ecommerce-admin)    | [view](https://ecommerce-admin-swart-six.vercel.app) |
 | Airbnb clone (django backend) | Practice django rest framework and related libraries                                                  | [view](https://github.com/Nevalearntocode/drf_next_airbnb)    | [view](https://django-nextjs-airbnb.vercel.app)      |
